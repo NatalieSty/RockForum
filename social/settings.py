@@ -26,7 +26,7 @@ SECRET_KEY = '5#8x=pbfirx43maw4-42)x@_=*!@4-kw%6064d#%bo(7o(fj2c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS =  ["myrockforum.pythonanywhere.com"]
 
 
 # Application definition
