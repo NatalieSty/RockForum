@@ -7,7 +7,7 @@ body{
 
 /*codepen*/
 html, body {
-	overflow: hidden;
+	overflow: scroll;
 	font-family: Comfortaa;
 }
 
